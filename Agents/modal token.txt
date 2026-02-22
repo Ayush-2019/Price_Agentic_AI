@@ -1,0 +1,1 @@
+modal token: modal token set --token-id ak-FcQpU7qmGIqeow5Lm8GAgy --token-secret as-NZsDYkI8DcbtkTlBI36PkJ 
